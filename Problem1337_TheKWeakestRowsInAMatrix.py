@@ -1,7 +1,8 @@
 """
 Problem 1337: The K Weakest Rows in a Matrix
 URL: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix
-Runtime: 99 ms, Beats: 99.16% Memory: 14.1 MB, Beats: 81.13%
+Runtime: 99 ms, Beats: 99.16% 
+Memory: 14.1 MB, Beats: 81.13%
 Description: You are given an m x n binary matrix mat of
 1's (representing soldiers) and 0's (representing civilians). The soldiers are positioned in front of the civilians.
 That is, all the 1's will appear to the left of all the 0's in each row.
