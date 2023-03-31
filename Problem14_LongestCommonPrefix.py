@@ -1,6 +1,8 @@
 """
 Exercise 14: Longest Common PreFix
 URL: https://leetcode.com/problems/longest-common-prefix
+Runtime: 38 ms, Beats: 45.64% 
+Memory: 13.9 MB, Beats: 78.53%
 Description:
 Write a function to find the longest common prefix string amongst an array of strings.
 If there is no common prefix, return an empty string "".
